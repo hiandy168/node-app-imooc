@@ -20,3 +20,7 @@ app-imooc
     vue
     vue-lazyload
     vue-router
+
+## 图片
+
+![avatar](http://imgsrc.baidu.com/forum/w%3D580/sign=a0a89597df2a283443a636036bb7c92e/eb895566d01609246be92791df0735fae4cd34e4.jpg)
