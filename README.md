@@ -4,9 +4,13 @@ app-imooc
 ## 安装
 
     cnpm install
+    
     npm run build
+    
     npm run dev
+    
     npm run start
+    
 
 
 ## 依赖
