@@ -1,7 +1,8 @@
 # node-app-imooc
 app-imooc
-
-    cnpm install
+    
+## 安装
+    cnpm install
 
     npm run build
 
@@ -11,9 +12,9 @@ app-imooc
 
 
 ## 依赖
-axios
-better-scroll
-element-ui
-vue
-vue-lazyload
-vue-router
+    axios
+    better-scroll
+    element-ui
+    vue
+    vue-lazyload
+    vue-router
